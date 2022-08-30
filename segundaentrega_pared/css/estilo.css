@@ -1,0 +1,7 @@
+ul {
+  list-style: none; }
+  ul li {
+    background-color: cyan; }
+    ul li li a {
+      text-decoration: none;
+      color: black; }
